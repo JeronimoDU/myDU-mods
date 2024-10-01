@@ -1,0 +1,374 @@
+---
+id: 10000001005
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- cactus_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001006
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- treeBanana_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001007
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- cactus_002: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001008
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- bamboo_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001009
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- acacia_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001010
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- birch_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001011
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- broadleaf_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001012
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- broadleaf_002: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001013
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- cypress_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001014
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- dracaena_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001015
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- fir_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001016
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- fir_001_xl: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001017
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- kapur_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001018
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- oak_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001019
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- palm_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001020
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- palm-queen_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000001021
+time: 60
+nanocraftable: false
+in:
+- WoodProduct: 750
+- BiologicMatterProduct: 250
+out:
+- sycamore_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002001
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- grass_002: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002002
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- areca_palm_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002003
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- clover_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002004
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- fern_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002005
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- flower_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002006
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- shrub_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002007
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- flower_002: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000002008
+time: 60
+nanocraftable: true
+in:
+- WoodProduct: 150
+- BiologicMatterProduct: 25
+out:
+- kidney_weed_001: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
