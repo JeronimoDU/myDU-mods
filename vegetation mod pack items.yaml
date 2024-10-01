@@ -1,0 +1,281 @@
+---
+WorldVegetationUnit:
+  parent: DecorativeUnit
+  subdescription: World Vegetation unit
+  displayName: World Vegetation
+  visibilityLOD: 4
+---
+cactus_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Cactus 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: s
+  price: 78.753421
+  hitpoints: 96
+---
+cactus_002:
+  parent: WorldVegetationUnit
+  displayName: Garden Cactus 2
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: s
+  price: 78.753421
+  hitpoints: 96
+---
+treeBanana_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Banana tree 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: s
+  price: 78.753421
+  hitpoints: 96
+---
+bamboo_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Bamboo 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: s
+  price: 78.753421
+  hitpoints: 96
+---
+acacia_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Acacia 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+birch_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Birch 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+broadleaf_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Broadleaf 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+broadleaf_002:
+  parent: WorldVegetationUnit
+  displayName: Garden Broadleaf 2
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+cypress_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Cypress 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+dracaena_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Dracanea 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+fir_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Fir 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+fir_001_xl:
+  parent: WorldVegetationUnit
+  displayName: Garden Fir 1 XL
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+kapur_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Kapur 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+oak_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Oak 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+palm_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Palm 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+palm-queen_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Palm Queen 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+sycamore_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Sycamore 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xl
+  price: 78.753421
+  hitpoints: 96
+---
+grass_002:
+  parent: WorldVegetationUnit
+  displayName: Garden Grass 2
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+areca_palm_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Areca Palm 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+clover_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Clover 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+fern_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Fern 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+flower_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Flower 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+flower_002:
+  parent: WorldVegetationUnit
+  displayName: Garden Flower 2
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+shrub_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Shrub 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
+---
+kidney_weed_001:
+  parent: WorldVegetationUnit
+  displayName: Garden Kydney weed 1
+  newPlayerDefaultQty: 0
+  unitMass: 3.52
+  unitVolume: 4.00
+  level: 1
+  scale: xs
+  price: 78.753421
+  hitpoints: 96
