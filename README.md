@@ -9,7 +9,9 @@
 
 ## Client side:
 
-Unpack "myDU client Vegetation mod pack.zip" into the client folder at:     My Dual Universe\Game\data\resources_generated\elements
+Unpack "myDU client Vegetation mod pack.zip" into the client folder at:     
+
+My Dual Universe\Game\data\resources_generated\elements
 
 
 ## Server side:
