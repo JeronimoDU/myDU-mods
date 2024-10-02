@@ -13,6 +13,7 @@ Unpack "myDU client Vegetation mod pack.zip" into the client folder at:
 
 My Dual Universe\Game\data\resources_generated\elements
 
+Zip file only contains asset entries toward existing models located in the client folder, no new mesh model are to be installed
 
 ## Server side:
 
