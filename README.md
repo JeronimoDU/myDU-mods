@@ -8,7 +8,7 @@
 
 ## Client side:
 
-Unpack "myDU client Vegetation mod pack.zip" into the client folder at:     
+Unpack "myDU client Frameless Invisible Screens mod pack.zip" into the client folder at:     
 
 My Dual Universe\Game\data\resources_generated\elements
 
