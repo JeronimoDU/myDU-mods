@@ -17,10 +17,12 @@ My Dual Universe\Game\data\resources_generated\elements
 
 ## Server side:
 
-Copy "vegetation mod pack items.yaml" and paste it into your items.yaml and reupload it to your Back Office in Items Hierarchy tab
+Copy content of "items.yaml" and paste it into your own items.yaml and reupload it to your Back Office in Items Hierarchy tab
 
-Copy "vegetation mod pack recipes.yaml" and paste it into your recipes.yaml and reupload it to your Back Office in Recipes tab
+Copy content of "recipes.yaml" and paste it into your own recipes.yaml and reupload it to your Back Office in Recipes tab
 
 Restart your client
+
+Items can be found looking for Invisible key word
 
 Enjoy!
