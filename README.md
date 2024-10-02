@@ -22,4 +22,6 @@ Copy "vegetation mod pack recipes.yaml" and paste it into your recipes.yaml and 
 
 Restart your client
 
+Items can be found looking for Garden key word
+
 Enjoy!
