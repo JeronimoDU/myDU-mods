@@ -1,0 +1,91 @@
+---
+ScreenInvisibleXXXL:
+  parent: ScreenUnit
+  displayName: Modern Invisible Screen
+  subdescription: This invisible screen is 20 meters wide.
+  unitMass: 720
+  unitVolume: 3600
+  sizeFactor: 5
+  ratio: 1.67
+  level: 2
+  scale: xxxl
+  visibilityLOD: 4
+  hitpoints: 28116
+---
+ScreenInvisibleXXL:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 16 meters wide.
+  unitMass: 432
+  unitVolume: 2160
+  sizeFactor: 5
+  ratio: 1.67
+  level: 2
+  scale: xxl
+  visibilityLOD: 4
+  hitpoints: 10000
+---
+ScreenInvisibleXL:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 8 meters wide.
+  unitMass: 120
+  unitVolume: 600
+  sizeFactor: 4
+  ratio: 1.67
+  level: 2
+  scale: xl
+  visibilityLOD: 3
+  hitpoints: 5000
+---
+ScreenInvisibleL:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 4 meters wide.
+  unitMass: 30
+  unitVolume: 150
+  level: 2
+  scale: l
+  ratio: 1.67
+  sizeFactor: 3
+  visibilityLOD: 2
+  hitpoints: 1000
+---
+ScreenInvisibleM:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 3 meters wide.
+  unitMass: 18
+  unitVolume: 90
+  level: 2
+  scale: m
+  ratio: 1.67
+  sizeFactor: 3
+  visibilityLOD: 2
+  hitpoints: 500
+---
+ScreenInvisibleS:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 2 meters wide.
+  unitMass: 7.5
+  unitVolume: 37.5
+  level: 2
+  scale: s
+  ratio: 1.67
+  sizeFactor: 2
+  visibilityLOD: 1
+  hitpoints: 200
+---
+ScreenInvisibleXS:
+  parent: ScreenUnit
+  displayName: Modern invisible Screen
+  subdescription: This invisible screen is 1 meter wide.
+  unitMass: 1.95
+  unitVolume: 9.75
+  level: 2
+  scale: xs
+  ratio: 1.67
+  sizeFactor: 1
+  visibilityLOD: 1
+  hitpoints: 50
