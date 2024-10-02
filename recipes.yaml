@@ -1,0 +1,125 @@
+---
+id: 10000003001
+time: 9216
+nanocraftable: false
+in:
+- component_1: 648
+- component_2: 648
+- electronics_2: 625
+- screen_2_xl: 1
+- casing_2_xl: 1
+out:
+- ScreenInvisibleXXXL: 1
+industries:
+- IndustryAssemblyXL
+- IndustryAssemblyXL2
+- IndustryAssemblyXL3
+- IndustryAssemblyXL4
+
+---
+id: 10000003002
+time: 9216
+nanocraftable: false
+in:
+- component_1: 108
+- component_2: 108
+- electronics_2: 125
+- screen_2_l: 1
+- casing_2_l: 1
+out:
+- ScreenInvisibleXXL: 1
+industries:
+- IndustryAssemblyL
+- IndustryAssemblyL2
+- IndustryAssemblyL3
+- IndustryAssemblyL4
+
+---
+id: 10000003003
+time: 9216
+nanocraftable: false
+in:
+- component_1: 18
+- component_2: 18
+- electronics_2: 25
+- screen_2_m: 1
+- casing_2_m: 1
+out:
+- ScreenInvisibleXL: 1
+industries:
+- IndustryAssemblyM
+- IndustryAssemblyM2
+- IndustryAssemblyM3
+- IndustryAssemblyM4
+
+---
+id: 10000003004
+time: 144
+nanocraftable: false
+in:
+- component_1: 3
+- component_2: 3
+- electronics_2: 5
+- screen_2_s: 1
+- casing_2_s: 1
+out:
+- ScreenInvisibleL: 1
+industries:
+- IndustryAssemblyS
+- IndustryAssemblyS2
+- IndustryAssemblyS3
+- IndustryAssemblyS4
+
+---
+id: 10000003005
+time: 36
+nanocraftable: false
+in:
+- component_1: 1
+- component_2: 1
+- electronics_2: 1
+- screen_2_xs: 1
+- casing_2_xs: 1
+out:
+- ScreenInvisibleM: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000003006
+time: 36
+nanocraftable: false
+in:
+- component_1: 1
+- component_2: 1
+- electronics_2: 1
+- screen_2_xs: 1
+- casing_2_xs: 1
+out:
+- ScreenInvisibleS: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
+
+---
+id: 10000003007
+time: 36
+nanocraftable: false
+in:
+- component_1: 1
+- component_2: 1
+- electronics_2: 1
+- screen_2_xs: 1
+- casing_2_xs: 1
+out:
+- ScreenInvisibleXS: 1
+industries:
+- IndustryAssemblyXS
+- IndustryAssemblyXS2
+- IndustryAssemblyXS3
+- IndustryAssemblyXS4
