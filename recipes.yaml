@@ -1,0 +1,83 @@
+---
+id: 10000004001
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcSandRaw: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
+
+---
+id: 10000004002
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcGrassForest: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
+
+---
+id: 10000004003
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcGrassMeadow: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
+
+---
+id: 10000004004
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcRockCliff: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
+
+---
+id: 10000004005
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcIceBreak: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
+
+---
+id: 10000004006
+time: 10
+nanocraftable: true
+in:
+- BiologicMatterProduct: 100
+out:
+- hcSnowMountain: 100
+industries:
+- IndustryHoneycomber
+- IndustryHoneycomber2
+- IndustryHoneycomber3
+- IndustryHoneycomber4
