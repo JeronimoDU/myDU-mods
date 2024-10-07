@@ -21,7 +21,7 @@ My Dual Universe\Game\data\resources_generated\elements\
 
 # CONTENT:
 
-Zip file contains asset entries toward existing models located in the client original folders, and new textures.
+Zip file (150mo) contains asset redirection entries toward existing models located in the client original folders, and new textures.
 
 Textures are all *.png format, lighter and easier to modify.
 
