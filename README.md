@@ -10,7 +10,7 @@
 
 Mod installation is irreversible, unless you back up your client industry folder beforehand.
 
-## Client side:
+## Client side(only):
 
 Download the 7 zip files and store them in the same folder.
 
