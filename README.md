@@ -14,7 +14,7 @@ Mod installation is irreversible, unless you back up your client industry folder
 
 Unpack "myDU client Tier Industries Textures mod pack.zip" and replace all files into the client folder at:     
 
-My Dual Universe\Game\data\resources_generated\
+My Dual Universe\Game\data\resources_generated\elements\
 
 
 # CONTENT:
