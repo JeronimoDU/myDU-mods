@@ -1,32 +1,30 @@
-# myDU Dual Universe Terrain texture honeycomb Mod Pack
+# myDU Dual Universe Tier Industries Textures Mod Pack
 
 
-![terrain](https://github.com/user-attachments/assets/fe404338-450b-48bf-bbb2-029b2dba2130)
+![Weixin Image_20241007155204](https://github.com/user-attachments/assets/c7ea556d-20a4-4e51-a5b3-b7091ffff91f)
+
 
 
 # HOW TO INSTALL:
 **IMPORTANT!**
 
+Mod installation is irreversible, unless you back up your client industry folder beforehand.
+
 ## Client side:
 
+Unpack "myDU client Tier Industries Textures mod pack.zip" and replace all files into the client folder at:     
 
-Unpack "myDU client Terrain texture honeycomb mod pack.zip" and replace files into the client folder at:     
-
-My Dual Universe\Game\data\resources_generated\voxel
-
-(make a backup of materialdefs and materials files)
-
-Zip file only contains asset entries toward existing models located in the client folder, no new mesh model are to be installed
+My Dual Universe\Game\data\resources_generated\
 
 
-## Server side:
+# CONTENT:
 
-Copy content of "items.yaml" and paste it into your own items.yaml and reupload it to your Back Office in Items Hierarchy tab
+Zip file contains asset entries toward existing models located in the client original folders, and new textures.
 
-Copy content of "recipes.yaml" and paste it into your own recipes.yaml and reupload it to your Back Office in Recipes tab
+Textures are all *.png format, lighter and easier to modify.
 
-Restart your client
 
-Items can be found looking for "texture" key word
+
+
 
 Enjoy!
