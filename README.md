@@ -1,7 +1,6 @@
 # myDU Dual Universe Frameless Invisible Screens Mod Pack
 
-Proof of concept, still working on the luminosity of the image
-
+v2 light emission fixed
 ![invi1](https://github.com/user-attachments/assets/32d1dbc4-6414-4c2c-a420-38a08924dbfa)
 
 
