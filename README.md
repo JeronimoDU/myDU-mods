@@ -22,6 +22,8 @@ You can find in the screens_invisible folder and open the screen_001.mat file wi
 
 to adjust the parameter for ``<parameter name="lightmap_scale">0.05</parameter>``
 
+(client full restart needed to reload parameters)
+
 
 ## Server side:
 
