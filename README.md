@@ -8,11 +8,11 @@
 # HOW TO INSTALL:
 **IMPORTANT!**
 
-Mod installation is irreversible, unless you back up your client industry folder beforehand.
+Mod installation is irreversible, make a copy of your elements\industries folder aside (in an other folder outside the game folder).
 
 ## Client side(only):
 
-Download the 7 zip files and store them in the same folder.
+Download the seven zip files and store them in the same folder (all 7 of them are needed to unpack).
 
 Unpack "myDU client Tier Industries Textures mod pack.zip" and replace all files into the client folder at:     
 
